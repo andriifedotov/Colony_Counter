@@ -1,0 +1,13 @@
+opencv-contrib-python
+numpy
+imutils
+tqdm
+PyYAML
+jpeg4py
+pillow
+gspread
+pandas
+python-dotenv
+boto3
+python-on-whales
+sklearn
